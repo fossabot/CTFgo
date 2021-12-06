@@ -15,6 +15,7 @@ A golang CTF competition platform with high-performance, security and low hardwa
   <a href="https://github.com/CTF-go/CTFgo/network/members">
     <img src="https://img.shields.io/github/forks/CTF-go/CTFgo?style=flat-square">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCTF-go%2FCTFgo?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCTF-go%2FCTFgo.svg?type=shield"/></a>
   <a href="https://github.com/CTF-go/CTFgo/stargazers">
     <img src="https://img.shields.io/github/stars/CTF-go/CTFgo?style=flat-square">
   </a>
@@ -38,6 +39,9 @@ A golang CTF competition platform with high-performance, security and low hardwa
   <a href="#license">License</a>
 </p>
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCTF-go%2FCTFgo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCTF-go%2FCTFgo?ref=badge_large)
 
 ## Table of Contents
 
@@ -107,4 +111,3 @@ Feel free to dive in! [Open an issue](https://github.com/CTF-go/CTFgo/issues/new
 ## License
 
 [GNU General Public License v3.0](https://github.com/CTF-go/CTFgo/blob/main/LICENSE)
-
